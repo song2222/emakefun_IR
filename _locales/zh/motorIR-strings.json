@@ -1,0 +1,5 @@
+﻿{
+    "motorIR|block": "红外",
+    "motorIR.init|block": "红外遥控器初始化引脚|%pin",
+    "motorIR.onPressEvent|block": "当红外遥控器按键|%btn|按下"
+}

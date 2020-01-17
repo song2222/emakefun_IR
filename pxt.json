@@ -1,0 +1,21 @@
+{
+    "name": "motorIR",
+    "version": "1.0.0",
+    "description": "Extension for motor:bit IR receiver module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+        "_locales/zh/motorIR-strings.json"
+    ],
+    "public": true
+}
